@@ -1,2 +1,6 @@
-# wearipedia-cardinalkit
-Updated CardinalKit version for Wearipedia Apple HealthKit notebook
+# CardinalKit Version for Wearipedia Apple HealthKit Notebook
+
+
+Changes made from [CardinalKit](github.com/](https://github.com/CardinalKit/CardinalKit)
+
+1. 
