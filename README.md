@@ -80,7 +80,13 @@ The following is a work in progress...the repo will be updated once it is comple
 
 1. Enabling an option for removing the limitation of 1000 measurements per category written to Firebase
 2. Fixing email and participant information storage in Firebase. The removal and maintenance of user information as fields in Firebase has bugs and is prone to removing information at the wrong time. 
-=======
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ![CardinalKit Logo](https://raw.githubusercontent.com/CardinalKit/.github/main/assets/ck-header-light.png#gh-light-mode-only)
 ![CardinalKit Logo](https://raw.githubusercontent.com/CardinalKit/.github/main/assets/ck-header-dark.png#gh-dark-mode-only)
 
