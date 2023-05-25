@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppId</key>
+	<string>415789243347763</string>
+	<key>Study Title</key>
+	<string>CardinalKit</string>
+	<key>Team Name</key>
+	<string>Stanford Byers Center for Biodesign</string>
+	<key>Email</key>
+	<string>contact@domain.com</string>
+	<key>Phone</key>
+	<string>123-456-7890</string>
+	<key>Copyright</key>
+	<string>Made at Stanford with ❤️</string>
+	<key>Website</key>
+	<string>https://cardinalkit.org</string>
+	<key>Tint Color</key>
+	<string>#b6133f</string>
+	<key>Primary Color</key>
+	<string>#ff3961</string>
+	<key>Review Consent Step Text</key>
+	<string>Review Consent Form</string>
+	<key>Reason for Consent Text</key>
+	<string>Consent to join the Developer Health Research Study.</string>
+	<key>Consent File Name</key>
+	<string>My Consent Form</string>
+	<key>Passcode Text</key>
+	<string>Now you will create a passcode to identify yourself to the app and protect access to information you&apos;ve entered.</string>
+	<key>Passcode Type</key>
+	<string>4</string>
+	<key>Completion Step Title</key>
+	<string>Welcome aboard.</string>
+	<key>Completion Step Text</key>
+	<string>This step concludes the onboarding and consent process of the CardinalKit framework. Next up, you will see main app functionality.</string>
+	<key>Health Permissions Title</key>
+	<string>Permission to read Activity Data 🏃🏽‍♀️</string>
+	<key>Health Permissions Text</key>
+	<string>Use this text to provide an explanation to your app participants about what activity data you intend to read from the Health app and why. This sample will read step count, distance, heart rate, and flights climbed data.</string>
+	<key>Health Records</key>
+	<dict>
+		<key>Enabled</key>
+		<true/>
+		<key>Permissions Text</key>
+		<string>Use this text to provide an explanation to your app participants about what electronic health records (EHR) you intend to collect from the Health app and why. This sample will read all available records (for which permission is granted).</string>
+		<key>Permissions Title</key>
+		<string>Permission to read Health Records 🏥</string>
+	</dict>
+	<key>Background Read Frequency</key>
+	<string>immediate</string>
+	<key>Sign In With Google</key>
+	<true/>
+	<key>Sign In With Email</key>
+	<true/>
+	<key>Sign In With Apple</key>
+	<true/>
+	<key>Withdrawal Instruction Title</key>
+	<string>Are you sure you want to withdraw?</string>
+	<key>Withdrawal Instruction Text</key>
+	<string>Withdrawing from the study will reset the app to the state it was in prior to you originally joining the study.</string>
+	<key>Withdraw Title</key>
+	<string>We appreciate your time.</string>
+	<key>Withdraw Text</key>
+	<string>Thank you for your contribution to this study. We are sorry that you could not continue. The app will now close.</string>
+	<key>Passcode On Return Text</key>
+	<string>Welcome back!</string>
+	<key>Consent Title</key>
+	<string>Research Study Consent Form</string>
+	<key>Use CareKit</key>
+	<true/>
+	<key>Consent Form</key>
+	<dict>
+		<key>Overview</key>
+		<dict>
+			<key>Title</key>
+			<string>Hi there! 👋🏽</string>
+			<key>Summary</key>
+			<string>CardinalKit is a suite of tools designed to help you build a digital health app experience from the ground up. It integrates with Firebase to provide full-stack solutions. We hope you enjoy the love poured into this sample and make many great things with it!</string>
+			<key>Content</key>
+			<string>CardinalKit is a suite of tools designed to help you build a digital health app experience from the ground up. It integrates with Firebase to provide full-stack solutions. We hope you enjoy the love poured into this sample and make many great things with it!</string>
+		</dict>
+		<key>DataGathering</key>
+		<dict>
+			<key>Title</key>
+			<string>Data Gathering</string>
+			<key>Summary</key>
+			<string>Here you should write a bit about what data you are collecting, and why.</string>
+			<key>Content</key>
+			<string>Here you should write a bit about what data you are collecting, and why. Additional content written here will show in final consent review form and generated PDF.</string>
+		</dict>
+		<key>Privacy</key>
+		<dict>
+			<key>Title</key>
+			<string>Privacy</string>
+			<key>Summary</key>
+			<string>What is your commitment in terms of data protection to your app participants? Who will have access to data?</string>
+			<key>Content</key>
+			<string>What is your commitment in terms of data protection to your app participants? Who will have access to data? Additional content written here will show in final consent review form and generated PDF.</string>
+		</dict>
+		<key>DataUse</key>
+		<dict>
+			<key>Title</key>
+			<string>Data Use</string>
+			<key>Summary</key>
+			<string>Information about your team&apos;s use of data.</string>
+			<key>Content</key>
+			<string>Information about your team&apos;s use of data. Additional content.</string>
+		</dict>
+		<key>TimeCommitment</key>
+		<dict>
+			<key>Title</key>
+			<string>Time Commitment</string>
+			<key>Summary</key>
+			<string>Information about the expected time commitment per app participant.</string>
+			<key>Content</key>
+			<string>Information about the expected time commitment per app participant. Additional content.</string>
+		</dict>
+		<key>StudySurvey</key>
+		<dict>
+			<key>Title</key>
+			<string>Study Survey</string>
+			<key>Summary</key>
+			<string>Information about any survey(s) in the app.</string>
+			<key>Content</key>
+			<string>Information about any survey(s) in the app. Additional content.</string>
+		</dict>
+		<key>StudyTasks</key>
+		<dict>
+			<key>Title</key>
+			<string>Study Tasks</string>
+			<key>Summary</key>
+			<string>Information about any task(s) in the app.</string>
+			<key>Content</key>
+			<string>Information about any task(s) in the app. Additional content.</string>
+		</dict>
+		<key>Withdrawing</key>
+		<dict>
+			<key>Title</key>
+			<string>Withdrawing</string>
+			<key>Summary</key>
+			<string>What should your study participants know about the withdrawing process of your study?</string>
+			<key>Content</key>
+			<string>What should your study participants know about the withdrawing process of your study? Additional content.</string>
+		</dict>
+	</dict>
+	<key>Onboarding</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>First Title</string>
+			<key>Description</key>
+			<string>You can customize this section your own logo and text.</string>
+			<key>Logo</key>
+			<string>ActivityIcon</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Second Title</string>
+			<key>Description</key>
+			<string>You can customize this section your own logo and text.</string>
+			<key>Logo</key>
+			<string>DataIcon</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Third Title</string>
+			<key>Description</key>
+			<string>You can customize this section your own logo and text.</string>
+			<key>Logo</key>
+			<string>WatchIcon</string>
+		</dict>
+	</array>
+	<key>Contacts</key>
+	<array>
+		<dict>
+			<key>givenName</key>
+			<string>Oliver</string>
+			<key>familyName</key>
+			<string>Aalami</string>
+			<key>title</key>
+			<string>Vascular Surgeon</string>
+			<key>role</key>
+			<string>Dr. Aalami is the director of the CardinalKit project.</string>
+			<key>email</key>
+			<string>aalami@stanford.edu</string>
+			<key>phone</key>
+			<string>111-111-1111</string>
+			<key>text</key>
+			<string>111-111-1111</string>
+			<key>street</key>
+			<string>318 Campus Drive</string>
+			<key>city</key>
+			<string>Stanford</string>
+			<key>state</key>
+			<string>CA</string>
+			<key>postalCode</key>
+			<string>94305</string>
+		</dict>
+		<dict>
+			<key>givenName</key>
+			<string>Johnny</string>
+			<key>familyName</key>
+			<string>Appleseed</string>
+			<key>title</key>
+			<string>OBGYN</string>
+			<key>role</key>
+			<string>Dr. Appleseed is an OBGYN with 13 years of experience.</string>
+			<key>phone</key>
+			<string>(324) 555-7415</string>
+			<key>text</key>
+			<string>(324) 555-7415</string>
+			<key>street</key>
+			<string>318 Campus Drive</string>
+			<key>city</key>
+			<string>Stanford</string>
+			<key>state</key>
+			<string>CA</string>
+			<key>postalCode</key>
+			<string>94305</string>
+		</dict>
+	</array>
+	<key>Use Cloud Surveys</key>
+	<false/>
+</dict>
+</plist>
